@@ -1,6 +1,6 @@
 # breed
 
-Bog breed app is a to explore the list of dog breeds, can select particular breed and explore more about the particular breed 
+Dog breed app is a to explore the list of dog breeds, can select particular breed and explore more about the particular breed 
 
 ## Project setup
 ```
